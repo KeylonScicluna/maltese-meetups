@@ -1,6 +1,6 @@
 {
-  "routes": [
-    { "handle": "filesystem" },
-    { "src": "/(.*)", "dest": "/index.html" }
+  "redirects": [
+    { "source": "/debug", "destination": "/", "permanent": false },
+    { "source": "/debug/(.*)", "destination": "/", "permanent": false }
   ]
 }
