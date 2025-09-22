@@ -76,7 +76,7 @@ if (path === "/debug/profiles") {
           }}
         >
           <a
-            href="/signup"
+            href="/"
             style={{
               padding: "10px 18px",
               borderRadius: 999,
@@ -88,7 +88,7 @@ if (path === "/debug/profiles") {
             Get Started
           </a>
           <a
-            href="/learn"
+            href="/"
             style={{
               padding: "10px 18px",
               borderRadius: 999,
